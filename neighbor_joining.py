@@ -2,6 +2,7 @@ import sys
 import random
 import copy
 
+
 sequence_file = sys.argv[1]
 bootstraps = 100
 
